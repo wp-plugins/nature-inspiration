@@ -1,0 +1,11 @@
+{
+    "animals": [
+        "cat","monkey","bird","african animal","dog"
+    ],
+    "cities": [
+        "modern city","ancient city","new york","rome","barcelona","tokyo","shanghai"
+    ],
+    "people": [
+        "man","woman","monochrome person","artsy person","child"
+    ]
+}
